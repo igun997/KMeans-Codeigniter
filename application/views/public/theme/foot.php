@@ -1,0 +1,6 @@
+
+    {js}
+    <script src="{url}"></script>
+    {/js}
+	</body>
+</html>
